@@ -1,4 +1,6 @@
 Hi, i'm MeowtonKalava to LOLITEAM
+website: https://dinhducthien.ooo/
+ Distros tested on : Kali Rolling
 ## Description:
 Meowcrypt used languages python for creat file backdoor.
 and not check anti-virus, windows defender, firewall
